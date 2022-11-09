@@ -1,0 +1,65 @@
+input{
+    width:500px;
+    height:30px;
+margin-top: 15px;
+
+}
+.header{
+    display:flex;
+    height:100px;
+
+}
+.bucket{
+   margin-top: 20px;
+   
+   margin-right: 100px;
+   background-color: blueviolet;
+   
+   margin-left: 130px;
+    width:320px;
+   height:95px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 7px 5px rgba(0,0,0,0.3);
+}
+.bucket1{
+   bottom: 0;
+   
+    margin-right: 100px;
+    background-color: blueviolet;
+    position: relative;
+    
+     width:320px;
+    height:95px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 7px 5px rgba(0,0,0,0.3);
+ }
+.take{
+    display:flex;
+    float: right;
+}
+.bucket h2{
+margin-top: 1px;
+font-size: 60px;
+text-align: center;
+color: aliceblue;
+}
+
+.bucketlist{
+    margin-top:100px;
+    margin-left: 130px;
+    width:320px;
+    height:500px;
+    background: #aaa;
+position: relative;
+}
+button{
+    border: none;
+    background-color: beige;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+p{
+    color: black
+}
+.button1{
+background-color: antiquewhite;
+}  
